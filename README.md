@@ -1,8 +1,4 @@
 ## BINARY SEARCH TREES
-The height of a binary search tree is the number of edges between the tree's root and its furthest leaf. You are given a pointer, root , pointing to the root of a binary search tree. Complete the getHeight function provided in your editor so that it returns the height of the binary search tree.
-Sample Input = [7,3,5,2,1,4,6,7]
-Sample output = 3
-![BinaryTrees.png]
 
 ## Here are the basic facts and terms to know about binary trees:
 
@@ -15,3 +11,9 @@ Sample output = 3
     - Simply put, the height of a tree is the number of edges between the root node and its furthest leaf.
     - ![Screenshot (201).png]
     - ![Screenshot (203).png]
+
+## FIND DEPTH OF BST
+The height of a binary search tree is the number of edges between the tree's root and its furthest leaf. You are given a pointer, root , pointing to the root of a binary search tree. Complete the getHeight function provided in your editor so that it returns the height of the binary search tree.
+Sample Input = [7,3,5,2,1,4,6,7]
+Sample output = 3
+![Screenshot (204).png]  ![Screenshot (205).png]
